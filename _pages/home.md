@@ -2,7 +2,7 @@
 permalink: /
 title: "LJT | Academic Homepage"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
@@ -27,13 +27,14 @@ I am a **PhD Candidate in Computer Science** at Stanford University, advised by 
 - **Graduate Research Assistant**, Stanford AI Lab (2022–Present)
   - Lead author on 6 peer-reviewed publications in top ML/AI venues, secured $15k in student research grant funding
 
-## Selected Publications (Featured on Homepage)
-*(Full list available on the [Publications page](/publications/))*
+## 📄 Selected Publications (Featured Directly on Homepage)
+*(Full list with links and BibTeX available on the [Publications page](/LJT-Homepage/publications/))*
 
-1. **LJT, A. Turing, et al.** (2024). *"RLHF with Contrastive Preference Regularization for Reducing LLM Hallucinations"*. **NeurIPS 2024** (Oral Presentation, Top 1% of submissions)
+1. **LJT, A. Turing, et al.** (2024). *"RLHF with Contrastive Preference Regularization for Reducing LLM Hallucinations"*. **NeurIPS 2024** (Oral Presentation, Top 1% of 12,000+ submissions)
 2. **LJT, B. Smith, C. Jones** (2024). *"Multimodal Foundation Models for Protein Structure Prediction from Microscopy Images"*. **ICML 2024** (Outstanding Paper Honorable Mention)
 3. **LJT, D. Lee** (2023). *"Efficient Parameter-Efficient Fine-Tuning for Domain-Specific LLMs"*. **ACL 2023** (Best Student Paper Award)
 4. **LJT, E. Wang** (2023). *"Measuring and Mitigating Social Bias in Multimodal Vision-Language Models"*. **FAccT 2023**
+5. **LJT, et al.** (2024). *"Scalable Safety Alignment for Open-Source Multimodal Models"* | Under review at ICLR 2025
 
 ## Technical Skills
 - **Programming**: Python, C++, PyTorch, TensorFlow, JAX, SQL, Bash
@@ -46,5 +47,6 @@ I am a **PhD Candidate in Computer Science** at Stanford University, advised by 
 - Google Scholar: [scholar.google.com/citations?user=LJT123456789](https://scholar.google.com/citations?user=LJT123456789)
 - ORCID: [orcid.org/0000-0002-1234-5678](https://orcid.org/0000-0002-1234-5678)
 - Office: Stanford University, Gates Building, Room 254, Stanford, CA 94305
+
 ---
 *Last updated: October 2024*
