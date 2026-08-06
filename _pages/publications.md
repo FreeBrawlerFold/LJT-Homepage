@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 # Peer-Reviewed Publications
-*(Selected publications are also featured directly on the [homepage](/))*
+*(Selected publications are also featured directly on the [homepage](/LJT-Homepage/))*
 
 ## 2024
 1. **LJT, Alan Turing, Bob Wilson, Sarah Chen**  
